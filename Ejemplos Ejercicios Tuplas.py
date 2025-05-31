@@ -1,6 +1,6 @@
 # at=(1,2,3,1,2,1,1,5,3)               #Contar cuantas veces se repite lo que está dentro de la tupla.
 # indice_att=at.count(1)
-# print(indice_att)
+# print(indice_att)   #esto es un print
 
 # print("Ejercicio 1")
 # dias=("Lunes","Martes","Miércoles","Jueves","Viernes")
