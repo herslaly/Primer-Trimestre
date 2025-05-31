@@ -47,26 +47,40 @@
 # print("La factura total del cliente es: ",diccionario)
 
 
-print("Ejercicio 3:")
+# print("Ejercicio 3:")
 
-name=input("Ingresa el nombre del estudiante: ")
+# name=input("Ingresa el nombre del estudiante: ")
 
-assigna=input("Ingresa el nombre matemáticas:" )
-assigna2=input("Ingresa el nombre naturales:" )
-assigna3=input("Ingresa el nombre sociales:" )
+# assigna=input("Ingresa el nombre matemáticas:" )
+# assigna2=input("Ingresa el nombre naturales:" )
+# assigna3=input("Ingresa el nombre sociales:" )
 
-assigna_matemáticas=float(input("Ingresa la primera nota: "))
-assigna_matemáticas2=float(input("Ingresa la segunda nota: "))
-assigna_naturales=float(input("Ingresa la primera nota: "))
-assigna_naturales2=float(input("Ingresa la segunda nota: "))
-assigna_sociales=float(input("Ingresa la primera nota: "))
-assigna_sociales2=float(input("Ingresa la segunda nota: "))
+# assigna_matemáticas=float(input("Ingresa la primera nota de matemáticas: "))
+# assigna_matemáticas2=float(input("Ingresa la segunda nota de matemáticas: "))
+# assigna_naturales=float(input("Ingresa la primera nota de naturales: "))
+# assigna_naturales2=float(input("Ingresa la segunda nota de naturales: "))
+# assigna_sociales=float(input("Ingresa la primera nota de sociales: "))
+# assigna_sociales2=float(input("Ingresa la segunda nota de sociales: "))
 
-tupla_matemáticas=((assigna_matemáticas+assigna_matemáticas2)/2)
-print(tupla_matemáticas)
-tupla_naturales=((assigna_naturales+assigna_naturales2)/2)
-print(tupla_naturales)
-tupla_sociales=((assigna_sociales+assigna_sociales2)/2)
-print(tupla_sociales)
+# tupla_matemáticas=((assigna_matemáticas+assigna_matemáticas2)/2)
+# print(tupla_matemáticas)
+# tupla_naturales=((assigna_naturales+assigna_naturales2)/2)
+# print(tupla_naturales)
+# tupla_sociales=((assigna_sociales+assigna_sociales2)/2)
+# print(tupla_sociales)
 
-lista_
+# lista_matemáticas=[tupla_matemáticas,assigna_matemáticas,assigna_matemáticas2]
+# print(lista_matemáticas)
+# lista_naturales=[tupla_naturales,assigna_naturales,assigna_naturales2]
+# print(lista_naturales)
+# lista_sociales=[tupla_sociales,assigna_sociales,assigna_sociales2]
+# print(lista_sociales)
+
+# lista_materias=[lista_matemáticas,lista_naturales,lista_sociales]
+# print(lista_materias)
+
+# diccionarioy={"nombre":name,
+#               "materias":lista_materias}
+# calcula=(tupla_matemáticas+tupla_naturales+tupla_sociales)/2
+# print(calcula)
+# print("El boletín del estudiante: ",name," ",diccionarioy)
