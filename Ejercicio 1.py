@@ -6,4 +6,4 @@
 # op2=base1**exp1
 # result=op1*op2
 # print(f"El resultado de la potenciación 2^3 * 3^4 es:", result)
-
+#Subir este repositorio
