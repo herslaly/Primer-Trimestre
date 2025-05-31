@@ -7,7 +7,7 @@
 # print(dias)
 # ind=dias.count("Martes")
 # print(ind)
-
+#Subir este repositorio
 # print("Ejercicio 1 Diapositivas")
 # tup=(1,2,3,4,5)
 # ext=tup[1]
