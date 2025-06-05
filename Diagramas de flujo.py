@@ -20,7 +20,23 @@
 
 print("Ejercicio 3")
 print("Calculadora: Operaciones matemáticas-------Suma:S-----Resta:R-----Multiplicación:M-----División:D")
-S=input("Ingresa un número: ")+(input("Ingresa el segundo número: "))
-opera=input("Ingresa la operación que quiere realizar: ")
-if opera==S:
-    print(S)
+
+
+
+
+print("Ejercicio 4")
+n5=int(input("Ingresa un número: "))
+if n5>=10 and n5<=20:
+    print("El número está entre 10 y 20")
+else:
+    print("El número no está en ese intervalo")
+    
+print("Ejercicio 5")
+n6=int(input("Ingresa un número: "))
+n7=int(input("Ingresa otro número: "))
+n8=int(input("Ingresa un último número: "))
+if n6>n7 and n6>n8:
+    print("El número ",n6," es el mayor de los 3")
+elif n7>n8 and n7>n8:
+    print("El número ",n7," es el mayor de los 3")
+elif n8>n6 and n8>

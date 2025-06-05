@@ -17,7 +17,7 @@
     
 print("Ejercicio 3")
 n4=int(input("Ingresa un número: "))
-if (n4//2):
+if 
     print("El número es par")
 else:
     print("El número es impar")
