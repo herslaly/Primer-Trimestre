@@ -1,0 +1,7 @@
+El repositorio está tomando una excelente forma y refleja un avance sólido en el desarrollo del proyecto. No obstante, es importante que se preste especial atención a mejorar la documentación interna del código, incorporando comentarios claros y detallados que expliquen la funcionalidad de cada módulo, función y bloque importante. Esto no solo facilita la comprensión para ti, sino que también mejora la mantenibilidad y colaboración futura.
+
+Además, te recomiendo estructurar los archivos y carpetas de manera más organizada y lógica. Una correcta jerarquización y agrupación de los recursos permite una navegación más eficiente dentro del proyecto, evita confusiones y acelera el proceso de desarrollo y revisión.
+
+Finalmente, te animo a que continúes practicando y revisando el código constantemente, pues esta es la mejor manera de mejorar tus habilidades de programación y desarrollar proyectos más sólidos, eficientes y escalables.
+
+Vas por muy buen camino.
